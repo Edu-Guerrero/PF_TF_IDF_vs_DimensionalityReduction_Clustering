@@ -492,7 +492,7 @@ metrica coseno
 |  2       | Enologia y Cocteleria        | 0.89  | Composicion Visual        | 0.99  | Planificacion y Evaluacion        | 0.18  |
 |  3       | Introduccion a la Economia        | 0.60  | Cinematografia        | 0.99  | Practica 4        | 0.13  |
 |  4       | Gerencia Financiera        | 0.51  | Juegos y Narrativa        | 0.99  | Bilingualism        | 0.13  |
-|  5       | Fisica para Ingeniera        | 0.49  | Kenguaje del Cine        | 0.99  | Ingles Nivel 7        | 0.90  |
+|  5       | Fisica para Ingeniera        | 0.49  | Lenguaje del Cine        | 0.99  | Ingles Nivel 7        | 0.90  |
 
 #### Curso sobre inteligencia artificial, tecnología de vanguardia, innovación disruptiva y desarrollo de aplicaciones inteligentes en el mercado
 
@@ -558,7 +558,7 @@ metrica coseno
 |          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
 |  1       | Taller de Investigación        | 33.91  | Sistemas Lean        | 0.87  | Economia y Negocios        | 0.80  |
 |  2       | Programacion Avanzada en C++        | 34.09  | Operaciones + Lab        | 1.36  | Nuevos Medios        | 0.75  |
-|  3       | Taller de Arte 2        | 34.96  | Analisis de Datos        | 1.48  | Innovacion y systentabilidad        | 0.90  |
+|  3       | Taller de Arte 2        | 34.96  | Analisis de Datos        | 1.48  | Innovacion y sustentabilidad        | 0.90  |
 |  4       | Ingeniera de la Calidad        | 35.09  | Mineria de Datos        | 1.49  | Composicion Visual        | 0.75  |
 |  5       | Principios de Finanzas        | 35.22  | Inv. de Operaciones        | 1.56  | Fundamentos de las artes        | 5.70  |
 
