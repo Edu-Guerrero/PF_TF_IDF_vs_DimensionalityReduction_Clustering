@@ -455,6 +455,22 @@ metrica coseno
 
 ![](Images/umap_gmm_2_2.png)
 
+## Mejor Clustering
+
+### Para Umap
+
+Kmeans con 6 clusters
+
+Kmeans con 3 clusters
+
+### Para Isomap
+
+Kmeans con 22 clusters
+
+Kmeans con 22 clusters
+
+
+
 # Resultados de los queries
 
 ## tf_idf
