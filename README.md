@@ -459,57 +459,232 @@ metrica coseno
 
 ## tf_idf
 
-### Curso de programación, diseño gráfico y cocina internacional con técnicas avanzadas de cocina y recetas modernas
+### Cosine
+
+#### Curso de programación, diseño gráfico y cocina internacional con técnicas avanzadas de cocina y recetas modernas
 
 |          | Isomap          |       | Umap            |       | Normal          |       |
 |----------|-----------------|-------|-----------------|-------|-----------------|-------|
 |          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
-|  1       | doc1.txt        | 0.85  | doc4.txt        | 0.88  | doc7.txt        | 0.80  |
-|  2       | doc2.txt        | 0.78  | doc5.txt        | 0.81  | doc8.txt        | 0.75  |
-|  3       | doc3.txt        | 0.92  | doc6.txt        | 0.95  | doc9.txt        | 0.90  |
-|  4       | doc2.txt        | 0.78  | doc5.txt        | 0.81  | doc8.txt        | 0.75  |
-|  5       | doc3.txt        | 0.92  | doc6.txt        | 0.95  | doc9.txt        | 0.90  |
+|  1       | Practica PreProfesional PASEM        | 0.73  | Alta Cocina Francesa        | 0.99  | Programacion para diseño 3        | 0.30  |
+|  2       | Paseteleria        | 0.72  | Alta cocina Ecuatoriana        | 0.99  | Conceptos y Tecnicas 2        | 0.29  |
+|  3       | Tributacion y Entorno Legal        | 0.70  | Practica Culinaria        | 0.99  | Alta Cocina Francesa        | 0.27  |
+|  4       | Reposteria y Chocolateria        | 0.61  | Conceptos y Técnicas        | 0.99  | Alta Cocina Mundial        | 0.26  |
+|  5       | Enologia y Cocteleria        | 0.99  | Identidad Culinaria        | 0.99  | Programación para Diseño 2        | 00.24  |
 
-### Curso de escritura creativa y técnica para estudiantes de música interesados en mejorar sus habilidades de composición
-
-|          | Isomap          |       | Umap            |       | Normal          |       |
-|----------|-----------------|-------|-----------------|-------|-----------------|-------|
-|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
-|  1       | doc1.txt        | 0.85  | doc4.txt        | 0.88  | doc7.txt        | 0.80  |
-|  2       | doc2.txt        | 0.78  | doc5.txt        | 0.81  | doc8.txt        | 0.75  |
-|  3       | doc3.txt        | 0.92  | doc6.txt        | 0.95  | doc9.txt        | 0.90  |
-|  4       | doc2.txt        | 0.78  | doc5.txt        | 0.81  | doc8.txt        | 0.75  |
-|  5       | doc3.txt        | 0.92  | doc6.txt        | 0.95  | doc9.txt        | 0.90  |
-
-### Curso de idiomas inicial para estudiantes que quieren aprender inglés de manera interactiva y efectiva con enfoque en conversación
+#### Curso de escritura creativa y técnica para estudiantes de música interesados en mejorar sus habilidades de composición
 
 |          | Isomap          |       | Umap            |       | Normal          |       |
 |----------|-----------------|-------|-----------------|-------|-----------------|-------|
 |          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
-|  1       | doc1.txt        | 0.85  | doc4.txt        | 0.88  | doc7.txt        | 0.80  |
-|  2       | doc2.txt        | 0.78  | doc5.txt        | 0.81  | doc8.txt        | 0.75  |
-|  3       | doc3.txt        | 0.92  | doc6.txt        | 0.95  | doc9.txt        | 0.90  |
-|  4       | doc2.txt        | 0.78  | doc5.txt        | 0.81  | doc8.txt        | 0.75  |
-|  5       | doc3.txt        | 0.92  | doc6.txt        | 0.95  | doc9.txt        | 0.90  |
+|  1       | Lenguaje Visual y Montaje        | 0.96  | Lenguaje del Cine        | 0.99  | Composicion        | 0.24  |
+|  2       | Enologia y Cocteleria        | 0.89  | Composicion Visual        | 0.99  | Cinematografia        | 0.17  |
+|  3       | Introduccion a la Economia        | 0.59  | Storytelling        | 0.99  | Ingles Nivel 3        | 0.15  |
+|  4       | Fisica para Ingeniera        | 0.50  | Cinematografia        | 0.99  | Creatividad Empresaria        | 0.14  |
+|  5       | Gerencia Financiera        | 0.50  | Juegos y Narrativas        | 0.99  | Composicion Visual        | 0.13  |
 
-### Curso sobre inteligencia artificial, tecnología de vanguardia, innovación disruptiva y desarrollo de aplicaciones inteligentes en el mercado
-
-|          | Isomap          |       | Umap            |       | Normal          |       |
-|----------|-----------------|-------|-----------------|-------|-----------------|-------|
-|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
-|  1       | doc1.txt        | 0.85  | doc4.txt        | 0.88  | doc7.txt        | 0.80  |
-|  2       | doc2.txt        | 0.78  | doc5.txt        | 0.81  | doc8.txt        | 0.75  |
-|  3       | doc3.txt        | 0.92  | doc6.txt        | 0.95  | doc9.txt        | 0.90  |
-|  4       | doc2.txt        | 0.78  | doc5.txt        | 0.81  | doc8.txt        | 0.75  |
-|  5       | doc3.txt        | 0.92  | doc6.txt        | 0.95  | doc9.txt        | 0.90  |
-
-### Curso para estudios de matemáticas aplicadas y artes liberales, combinando teoría matemática avanzada con análisis crítico cultural
+#### Curso de idiomas inicial para estudiantes que quieren aprender inglés de manera interactiva y efectiva con enfoque en conversación
 
 |          | Isomap          |       | Umap            |       | Normal          |       |
 |----------|-----------------|-------|-----------------|-------|-----------------|-------|
 |          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
-|  1       | doc1.txt        | 0.85  | doc4.txt        | 0.88  | doc7.txt        | 0.80  |
-|  2       | doc2.txt        | 0.78  | doc5.txt        | 0.81  | doc8.txt        | 0.75  |
-|  3       | doc3.txt        | 0.92  | doc6.txt        | 0.95  | doc9.txt        | 0.90  |
-|  4       | doc2.txt        | 0.78  | doc5.txt        | 0.81  | doc8.txt        | 0.75  |
-|  5       | doc3.txt        | 0.92  | doc6.txt        | 0.95  | doc9.txt        | 0.90  |
+|  1       | Lenguaje Visual y Montaje        | 0.96  | Storytelling        | 1.00  | Ingles Nivel 5        | 0.22  |
+|  2       | Enologia y Cocteleria        | 0.89  | Composicion Visual        | 0.99  | Planificacion y Evaluacion        | 0.18  |
+|  3       | Introduccion a la Economia        | 0.60  | Cinematografia        | 0.99  | Practica 4        | 0.13  |
+|  4       | Gerencia Financiera        | 0.51  | Juegos y Narrativa        | 0.99  | Bilingualism        | 0.13  |
+|  5       | Fisica para Ingeniera        | 0.49  | Kenguaje del Cine        | 0.99  | Ingles Nivel 7        | 0.90  |
+
+#### Curso sobre inteligencia artificial, tecnología de vanguardia, innovación disruptiva y desarrollo de aplicaciones inteligentes en el mercado
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Tributaciones y Entorno Legal        | 0.72  | Sistemas Operativos        | 0.99  | Inteligencia Artificial        | 0.20  |
+|  2       | Redes        | 0.62  | Estructura de Datos        | 0.99  | Emprendimiento        | 0.18  |
+|  3       | Base de Datos        | 0.54  | Redes        | 0.99  | Enseñanza Integrada de Citiam        | 0.17  |
+|  4       | Organizacion Computadores        | 0.46  | Procesos Metodos y Estandares        | 0.99  | Nuevos Medios        | 0.13  |
+|  5       | Fisica para Ingenierias        | 0.46  | Proyectos Gerencia y Analisis        | 0.99  | Creatividad Empresarial        | 0.11  |
+
+#### Curso para estudios de matemáticas aplicadas y artes liberales, combinando teoría matemática avanzada con análisis crítico cultural
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Lenguaje Visual y Montaje        | 0.96  | Electronica Basica        | 0.99  | Arte y Educacion        | 0.24  |
+|  2       | Enologia y Cocteleria        | 0.90  | Matematica Discreta        | 0.99  | Matematicas cotidianas        | 0.24  |
+|  3       | Introduccion a la Economia        | 0.99  | Matematicas Cotidianas        | 0.95  | Logica y Teoria de Conjuntos        | 0.20  |
+|  4       | Gerencia Financiera        | 0.52  | Fisica para Ingeniera 2        | 0.99  | Gestion y Produccion Cultural        | 0.18  |
+|  5       | Fisica para Ingeniera        | 0.49  | Fisica para Ingeniera 1        | 0.99  | Enseñanza de Matematicas        | 0.18  |
+
+### Manhattan
+
+#### Curso de programación, diseño gráfico y cocina internacional con técnicas avanzadas de cocina y recetas modernas
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Distancia | Document Name   | Score | Document Name   | Score |
+|  1       | Proyecto Integrador CMP        | 28.61  | Alta Cocina Ecuatoriana        | 0.88  | Dibujo para Arte y Diseño        | 5.32  |
+|  2       | Taller de Arte 2        | 29.05  | Practica culinaria        | 1.05  | Taller de Arte 3        | 5.54  |
+|  3       | Taller de Arte 3        | 30.25  | Alta Cocina Francesa        | 1.07  | Herramientas Digitales 1        | 5.73  |
+|  4       | Proyectos Empresariales        | 30.51  | Alta Cocina Mundial        | 1.33  | Programacion para Diseño 3        | 5.74  |
+|  5       | Taller de Investigacion        | 30.52  | Practica Culinaria        | 1.42  | Laboratorio de Creacion        | 5.77  |
+
+#### Curso de escritura creativa y técnica para estudiantes de música interesados en mejorar sus habilidades de composición
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Proyecto Integrador        | 27.67  | Nuevos Medios        | 0.96  | Composicion Visual        | 4.86  |
+|  2       | Taller de Investigacion        | 27.94  | Composicion Visual        | 0.97  | Composicion        | 5.47  |
+|  3       | Taller de Arte 3        | 28.10  | Ingles Nivel 1        | 1.23  | Enfasis 3        | 5.56  |
+|  4       | Taller de Arte 2        | 28.45  | Composicion        | 1.30  | Fotografia 1        | 5.57  |
+|  5       | Control de Produccion       | 28.69  | Cinematografia        | 1.39  | Enfasis 1        | 5.61  |
+
+#### Curso de idiomas inicial para estudiantes que quieren aprender inglés de manera interactiva y efectiva con enfoque en conversación
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Proyecto Integrador        | 27.63  | Ingles Nivel 1        | 1.31  | Economia y Negocios        | 5.32  |
+|  2       | Taller de Investigacion        | 27.86  | Nuevos Medios        | 1.93  | Composicion Visual        | 5.52  |
+|  3       | Taller de Arte 3        | 27.91  | Composicion        | 1.98  | Analisis Estrategico        | 5.60  |
+|  4       | Taller de Arte 2        | 28.22  | Improvisacion        | 2.19  | Enfasis 3        | 5.71  |
+|  5       | Ingeniera de la Calidad       | 28.44  | Composicion Visual        | 2.22  | Enfasis 1        | 5.74  |
+
+#### Curso sobre inteligencia artificial, tecnología de vanguardia, innovación disruptiva y desarrollo de aplicaciones inteligentes en el mercado
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Taller de Investigación        | 33.91  | Sistemas Lean        | 0.87  | Economia y Negocios        | 0.80  |
+|  2       | Programacion Avanzada en C++        | 34.09  | Operaciones + Lab        | 1.36  | Nuevos Medios        | 0.75  |
+|  3       | Taller de Arte 2        | 34.96  | Analisis de Datos        | 1.48  | Innovacion y systentabilidad        | 0.90  |
+|  4       | Ingeniera de la Calidad        | 35.09  | Mineria de Datos        | 1.49  | Composicion Visual        | 0.75  |
+|  5       | Principios de Finanzas        | 35.22  | Inv. de Operaciones        | 1.56  | Fundamentos de las artes        | 5.70  |
+
+#### Curso para estudios de matemáticas aplicadas y artes liberales, combinando teoría matemática avanzada con análisis crítico cultural
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Proyecto Integrador CMP       | 27.57  | Matematicas Discretas        | 0.63  |  Matemáticas Cotidianas        | 5.24  |
+|  2       | Taller de Investigación        | 28.00  | Logica y Teoria de Conjuntos        | 0.81  | Gestion y Produccion Cultural        | 5.82  |
+|  3       | Taller de Arte 3        | 28.05  | Variable Compleja        | 1.20  | Arte y contexto Social        | 5.93  |
+|  4       | Ingeniera de la Calidad        | 28.31  | Ecuaciones Diferenciales        | 1.40  | Logica y Teoria de Conjuntos        | 5.93  |
+|  5       | Taller de Arte 2        | 28.36  | Teoria de Grupos        | 1.62  | Teoria Critica 1 Arte        | 6.07  |
+
+## tf_idf_2
+
+### Cosine
+
+#### Curso de programación, diseño gráfico y cocina internacional con técnicas avanzadas de cocina y recetas modernas
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Base de Datos        | 0.89  | Alta Cocina Ecuatoriana        | 0.99  | Programacion para diseño 3        | 0.25  |
+|  2       | Performance        | 0.46  | Reposteria y Chocolateria        | 0.99  | Conceptos y Tecnicas 2        | 0.24  |
+|  3       | Modelado 3D        | 0.46  | Neurociencia y Educacion        | 0.99  | Alta Cocina Francesa        | 0.23  |
+|  4       | Geometria Diferencial        | 0.43  | Alta Cocina Francesa        | 0.99  | Practica Culinaria        | 0.22  |
+|  5       | Marketing Digital        | 0.41  | Identidad Culinaria        | 0.99  | Alta Cocina Mundial       | 0.22  |
+
+#### Curso de escritura creativa y técnica para estudiantes de música interesados en mejorar sus habilidades de composición
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Base de Datos        | 0.89  | Taller de Arte        | 0.99  | Composicion        | 0.20  |
+|  2       | Performance        | 0.47  | Teoria de la Computacion        | 0.99  | Cinematografia        | 0.15  |
+|  3       | Modelado 3D       | 0.46  | Taller de Investigacion        | 0.99  | Ingles Nivel 3        | 0.13  |
+|  4       | Geometria Diferencial        | 0.43  | Laboratorio de Creacion        | 0.99  | Composición Visual        | 0.12  |
+|  5       | Marketing Digital        | 0.42  | Taller de Arte 3        | 0.99  | Barra para Danza Contemporanea        | 0.12  |
+
+#### Curso de idiomas inicial para estudiantes que quieren aprender inglés de manera interactiva y efectiva con enfoque en conversación
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Base de Datos        | 0.90  | Coloquios EDU        | 0.99  | Ingles Nivel 5        | 0.19  |
+|  2       | Performance        | 0.47  | Planificacion y Evaluacion        | 0.99  | Planificacion y Evaluacion        | 0.14  |
+|  3       | Modelado 3D       | 0.44  | Enseñanza de Citiam        | 0.99  | Ingles Bilingualism        | 0.12  |
+|  4       | Marketing Digital        | 0.42  | Enseñanza Lenguaje        | 0.99  | Enseñana de Matematicas        | 0.12  |
+|  5       | Geometria Diferencial        | 0.42  | Bilingualism        | 0.99  | Juegos y Narrativa        | 0.11  |
+
+#### Curso sobre inteligencia artificial, tecnología de vanguardia, innovación disruptiva y desarrollo de aplicaciones inteligentes en el mercado
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Base de Datos        | 0.87  | Juegos y Narrativa        | 1.00 | Inteligencia Artificial        | 0.19  |
+|  2       | PModelado 3D        | 0.45  | Modelado 3D        | 1.00  | Emprendimiento        | 0.18  |
+|  3       | Performance       | 0.44  | Quimica General        | 0.99  | Ingles Enseñanza Integrada de Citiam        | 0.15  |
+|  4       | Marketing Digital        | 0.42  | Base de Datos        | 0.99  | Nuevos Medios        | 0.12  |
+|  5       | Geometria Diferencial        | 0.41  | Introduccion a la Biologia        | 0.99  | Programacion Avanzada de Apps        | 0.11  |
+
+#### Curso para estudios de matemáticas aplicadas y artes liberales, combinando teoría matemática avanzada con análisis crítico cultural
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Teoria de Grupos        | 0.61  | Teoria del Aprendizaje        | 0.99  | Matematicas Cotidianas        | 0.22  |
+|  2       | Teoria de Numeros        | 0.55  | Arte y Educacion        | 0.99  | Logica y Teoria de Conjuntos        | 0.20  |
+|  3       | Calculo Diferencial        | 0.40  | Enseñanza de Matematicas        | 0.95  | Enseñanza de Matematicas        | 0.17  |
+|  4       | Algebra Abstracta        | 0.39  | Fundamentos de la Educacion        | 0.99  | Arte y Educacion        | 0.16  |
+|  5       | Neurociencia y Educación        | 0.39  | Enseñanza de Ciencias Sociales        | 0.99  | Matemática Empresaria        | 0.16  |
+
+### Manhattan
+
+#### Curso de programación, diseño gráfico y cocina internacional con técnicas avanzadas de cocina y recetas modernas
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Distancia | Document Name   | Score | Document Name   | Score |
+|  1       | Juegos y Narrativa        | 0.45  | Alta Cocina Ecuatoriana        | 0.60  | Laboratorio de Creacion        | 28.97  |
+|  2       | Herramientas Digitales        | 1.21  | Alta Cocina Francesa        | 1.13  | Taller de Arte 3        | 30.17  |
+|  3       | Storytelling        | 1.44  | Alta Cocina Mundial        | 1.24  | Fundamentos de las Artes        | 31.21  |
+|  4       | Lenguaje Visual y Montaje        | 1.48  | Identidad Culinaria        | 1.37  | Composicion Visual        | 32.23  |
+|  5       | Lenguaje del Cine        | 1.48  | Conceptos y Técnicas        | 1.69  | Laboratorio de Creacion        | 32.93  |
+
+#### Curso de escritura creativa y técnica para estudiantes de música interesados en mejorar sus habilidades de composición
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | PASEM        | 0.41  | Composicion        | 0.79  | Composicion Visual        | 27.93  |
+|  2       | Proyecto Integrador EDU        | 0.59  | Danza Moderna        | 0.90  | Laboratorio de Creacion        | 28.39  |
+|  3       | Coloquios Gastr.        | 0.61  | Improvisacion        | 0.99  | Fundamentos de las Artes        | 28.93  |
+|  4       | Inclusion y Diversidad        | 0.67  | Composicion Visual        | 1.23  | Taller de Arte 3        | 31.59  |
+|  5       | Proyecto Final Danza       | 0.80  | Performance       | 1.36  | Principios de Finanzas        | 32.14  |
+
+#### Curso de idiomas inicial para estudiantes que quieren aprender inglés de manera interactiva y efectiva con enfoque en conversación
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Alta Cocina Ecuatoriana        | 0.70  | Teoria Critica 1 Arte        | 0.41 | Composición Visual        | 29.93  |
+|  2       | Alta Cocina Francesa        | 1.10  | Enseñanza Integrada Citiam        | 0.82  | Economia de Negocios        | 30.38  |
+|  3       | Alta Cocina Mundial        | 1.35  | Nuevos Medios        | 1.02  | Laboratorio de Creacion        | 30.39  |
+|  4       | Identidad Culinaria        | 1.47  | Enseñanza Ciencias Sociales        | 1.11  | Fundamentos de las Artes        | 30.93  |
+|  5       | Conceptos y Tecnicas       | 1.55  | Enfasis 3        | 1.15  | Tallr de Arte 3        | 31.59  |
+
+#### Curso sobre inteligencia artificial, tecnología de vanguardia, innovación disruptiva y desarrollo de aplicaciones inteligentes en el mercado
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Teoria Critica 1 Arte        | 0.95  | Estadistica Empresarial        | 0.53  | Fundamentos de las Artes        | 27.93  |
+|  2       | Nuevos Medios        | 1.01  | Matematica Empresaria        | 11.13  | Composicion Visual        | 29.23  |
+|  3       | Barra para danza contemporanea        | 1.48  | Analisis de Datos        | 1.23  | Economia y Negocios        | 29.68  |
+|  4       | Enfasis 3        | 1.70  | Mineria de Datos        | 1.43  | Laboratorio de Creacion        | 29.69  |
+|  5       | Enfasis 1       | 1.76  | Seguridad Informática        | 1.71  | Taller de Arte        | 30.88  |
+
+#### Curso para estudios de matemáticas aplicadas y artes liberales, combinando teoría matemática avanzada con análisis crítico cultural
+
+|          | Isomap          |       | Umap            |       | Normal          |       |
+|----------|-----------------|-------|-----------------|-------|-----------------|-------|
+|          | Document Name   | Score | Document Name   | Score | Document Name   | Score |
+|  1       | Analisis Real       | 1.12  | Enseñanzas de Ciencias Sociales        | 0.64  |  Laboratorio de Creacion        | 31.69  |
+|  2       | Algebra Abstracta        | 1.15  | Enseñanza de Ciencias        | 1.18  | Matematicas Cotidianas        | 32.28  |
+|  3       | Topologia        | 1.26  | Enseñanza Integrada de Citiam        | 1.18  | Taller de Arte        | 32.88  |
+|  4       | Analisis Funcional        | 1.34  | Arte y Educacion        | 1.40  | Composicion Visual 1        | 33.23  |
+|  5       | Teoria de Grupos       | 1.49  | Teoria Critica 1 y Arte        | 1.71  | Coloquios ADM        | 33.62  |
